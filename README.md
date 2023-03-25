@@ -36,7 +36,7 @@
 <html>
   <head>
     <meta charset="utf-8"> <!-- This meta tag specifies the character encoding for the document -->
-    <title>Page Title</title> <!-- This tag specifies the title of the web page -->
+    
   </head>
   <body>
     <!-- The main content of the web page goes here -->
