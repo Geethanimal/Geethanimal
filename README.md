@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Geethan Imal.</h1>
-<h3 align="center">Your idea is Executable.</h3>
+<h1 align="center">Geethan Imal.</h1>
+<h3 align="center">Greetings! Your idea is Executable.</h3>
 
 - 🔭 I’m currently working on Exe.lk as Tech Lead, Founder and CEO.
 - 🌱 I’m currently learning AI & Machine Learning
