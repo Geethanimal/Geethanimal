@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Exe.lk as a Founder and CEO.
 - 🌱 I’m currently learning AI & Machine Learning
-- 👯 I’m looking to collaborate on public AI & Machine Learning and Enterprice B2B projects.
+- 👯 I’m looking to collaborate on public R&D and Enterprice B2B projects.
 - 💬 Ask me about AI & Machine Learning
 - 📫 How to reach me ![geethanimal0@gmail.com](https://geethanimal0@gmail.com)
 
