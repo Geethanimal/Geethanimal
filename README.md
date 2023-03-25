@@ -1,4 +1,8 @@
+<!-- Latest compiled and minified CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
 
+<!-- Latest compiled JavaScript -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
 
 <h1 align="center">Geethan Imal.</h1>
 <h3 align="center">Greetings! Your idea is Executable.</h3>
@@ -16,8 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia" alt="Geethan Imal"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia" alt="Geethan Imal"/>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
-<div> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)-->
+ 
+  </div>
   
 <hr/>
 
