@@ -23,7 +23,7 @@
   
 <hr/>
 
-![ ](https://metrics.lecoq.io/Geethanimal)
+<p align="center"><img align="center" src="https://metrics.lecoq.io/Geethanimal" alt="Geethan Imal"/></p>
 
 
 
