@@ -18,4 +18,8 @@
 ![GeethanImal](https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![GeethanImal](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
 
+<hr/>
+
+<img src="https://metrics.lecoq.io/Geethanimal" alt="Geethan Imal Github"/>
+
 
