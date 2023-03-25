@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning AI & Machine Learning
 - 👯 I’m looking to collaborate on public R&D and Enterprice B2B projects.
 - 💬 Ask me about AI & Machine Learning
-- 📫 How to reach me <a href="https://www.linkedin.com/in/geethanimal/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/><a/>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/geethanimal/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/><a/><a href="https://www.facebook.com/geethan.imal.3/"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/><a/>
 - <img src="https://komarev.com/ghpvc/?username=Geethanimal&label=Profile%20views&color=0e75b6&style=flat" alt="Geethan Imal" /> </p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanimal&" alt="Geethan Imal"/></p>
