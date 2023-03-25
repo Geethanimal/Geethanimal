@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 ![GeethanImal](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
 
 
-<img align="left" alt="GIF" width="250px" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif"/>
-
-
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanimal&" alt="Geethan Imal"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Geethanimal&label=Profile%20views&color=0e75b6&style=flat" alt="Geethan Imal" /> </p>
 
