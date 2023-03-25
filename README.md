@@ -36,10 +36,18 @@
 <html>
   <head>
     <meta charset="utf-8"> <!-- This meta tag specifies the character encoding for the document -->
-    
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
   </head>
   <body>
-    <!-- The main content of the web page goes here -->
+    <div class="container">
+      <div class="row">
+        <h1>Hi</h1>
+      </div>
+    </div>
   </body>
 </html>
 
