@@ -18,7 +18,7 @@
 
 <hr/>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanimal&" alt="Geethan Imal"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanimal&" alt="Geethan Imal"/></p>
   
 <hr/>
 
