@@ -45,7 +45,9 @@
   <body>
     <div class="container">
       <div class="row">
-        <h1>Hi</h1>
+        <div class="col"><h1>Hi</h1></div>
+        <div class="col"><h1>Hi</h1></div>
+        <div class="col"><h1>Hi</h1></div>
       </div>
     </div>
   </body>
