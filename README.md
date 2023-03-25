@@ -13,9 +13,11 @@
 <hr/>
   
 <div style="text-align:center;">
-![](https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
-<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia" alt="Geethan Imal"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia" alt="Geethan Imal"/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
+<div> -->
   
 <hr/>
 
