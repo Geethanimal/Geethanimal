@@ -20,6 +20,6 @@
 
 <hr/>
 
-<img src="https://metrics.lecoq.io/Geethanimal" alt="Geethan Imal Github"/>
+(https://metrics.lecoq.io/Geethanimal)
 
 
