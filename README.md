@@ -45,9 +45,9 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="col"><h1>Hi</h1></div>
-        <div class="col"><h1>Hi</h1></div>
-        <div class="col"><h1>Hi</h1></div>
+        <div class="col-4">Hi</div>
+        <div class="col-4">Hi</div>
+        <div class="col-4">Hi</div>
       </div>
     </div>
   </body>
