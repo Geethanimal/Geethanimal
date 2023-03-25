@@ -12,10 +12,11 @@
   
 <hr/>
   
-
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
-
+  </p>
+  
 <hr/>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Geethanimal&" alt="Geethan Imal"/></p>
