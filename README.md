@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Geethan Imal.</h1>
 <h3 align="center">Your idea is Executable.</h3>
 
-- 🔭 I’m currently working on Exe.lk as a Founder and CEO.
+- 🔭 I’m currently working on Exe.lk as Founder and CEO.
 - 🌱 I’m currently learning AI & Machine Learning
 - 👯 I’m looking to collaborate on public R&D and Enterprice B2B projects.
 - 💬 Ask me about AI & Machine Learning
