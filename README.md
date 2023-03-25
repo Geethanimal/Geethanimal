@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI & Machine Learning
 - 👯 I’m looking to collaborate on public R&D and Enterprice B2B projects.
 - 💬 Ask me about AI & Machine Learning
-- 📫 How to reach me ![geethanimal0@gmail.com](https://geethanimal0@gmail.com)
+- 📫 How to reach me ![Linkedin](https://www.linkedin.com/in/geethanimal/)
 
 ![GeethanImal](https://github-readme-stats.vercel.app/api?username=Geethanimal&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![GeethanImal](https://github-readme-stats.vercel.app/api/top-langs/?username=Geethanimal&layout=compact&langs_count=6&theme=algolia)
