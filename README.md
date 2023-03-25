@@ -20,6 +20,6 @@
 
 <hr/>
 
-(https://metrics.lecoq.io/Geethanimal)
+![ ](https://metrics.lecoq.io/Geethanimal)
 
 
