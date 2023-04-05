@@ -5,7 +5,7 @@
   
 <hr/>
 
-- 🔭 I’m currently working on Exe.lk as Tech Lead, Founder and CEO.
+- 🔭 I’m currently working on Exe.lk as R&D Tech Lead, Founder and CEO.
 - 🌱 I’m currently learning AI & Machine Learning
 - 👯 I’m looking to collaborate on public R&D , Enterprice B2B & B2C projects.
 - 💬 Ask me about AI & Machine Learning
